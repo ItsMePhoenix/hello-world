@@ -1,2 +1,2 @@
 # hello-world
-learning to use the site
+I'm learning how to use this site.
